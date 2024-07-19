@@ -1,0 +1,1 @@
+conts fullName : string = 'Pooh'
